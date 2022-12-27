@@ -2,8 +2,9 @@
 Guide for Lightnovel Crawler running through Google Colab
 # ⌈⌈   Guide for Lightnovel Crawler running through Google Colab   ⌉⌉
 
-- **Github Repo:**
+- ******Github Repo:******
     [https://github.com/dipu-bd/lightnovel-crawler](https://github.com/dipu-bd/lightnovel-crawler)
+    
     
  
     
